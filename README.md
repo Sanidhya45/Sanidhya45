@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Sanidhya45
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : Available on linked in
 
 <!---
 Sanidhya45/Sanidhya45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
