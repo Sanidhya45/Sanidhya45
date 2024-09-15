@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanidhya45
 - 👀 I’m interested in learning new technologies
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working and learning technologies like JAVA, Oracle/MySql Database, Spring Boot.
 - 📫 How to reach me : Available on linked in
 
 <!---
